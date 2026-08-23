@@ -1,0 +1,7 @@
+.DS_Store
+.env
+*.log
+backend/bin/
+backend/geothermal-well-monitor-service
+*.test
+*.out
