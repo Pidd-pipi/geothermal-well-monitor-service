@@ -1,0 +1,1 @@
+{"project_intro": "基于 Go 实现的地热井监测 Web 项目，一款后端服务，完成井口工况、测点读数、异常告警、巡检任务、保养计划与运维记录管理。", "mode": "service", "workdir": ".", "start": "go run .", "ready_url": "http://127.0.0.1:18080/health", "env": {"PORT": "18080"}}
